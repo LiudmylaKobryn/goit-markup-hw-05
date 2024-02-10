@@ -4,6 +4,7 @@
   --second-text-color: #ffffff;
   --accent-color: #4d5ae5;
   --btn-color: #f4f4fd;
+  --check-text: #8e8f99;
 }
 
 body {
@@ -650,6 +651,9 @@ img {
 }
 .check-text {
   line-height: 1.17;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--check-text);
 }
 .check-text a {
   color: var(--accent-color);
