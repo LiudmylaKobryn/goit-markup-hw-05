@@ -530,6 +530,10 @@ img {
   border: none;
   border-radius: 4px;
 }
+.footer-btn-icon {
+  margin-left: 16px;
+  fill: #ffffff;
+}
 
 /*---------------MODAL--------------- */
 
